@@ -57,12 +57,4 @@ Each lab will contain:
 - A final project will be implemented to integrate concepts from both **logic design** and **computer architecture**.  
 - Details and requirements will be shared in **Week 18**.  
 
----
-
-## 🤝 Contribution  
-
-If you’d like to contribute:  
-1. Fork this repo  
-2. Create a new branch (`feature/your-feature`)  
-3. Commit changes  
-4. Submit a pull request  
+ 
