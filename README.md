@@ -84,7 +84,6 @@ Each folder contains lab-wise tasks as provided during the semester.
 ---
 
 ## 📌 Notes
-- Folder names match the lab numbers exactly as assigned.
 - This repository is intended for **learning, practice, and academic reference**.
 
 ---
