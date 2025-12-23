@@ -1,0 +1,57 @@
+Take two inputs from the user and subtract the first one from the other.
+IN
+STO 51
+IN
+SUB 51
+OUT
+HLT
+
+Take three (any) hardcoded values and add them together.
+LDA 51
+ADD 52
+ADD 53
+OUT
+HLT
+*51
+DAT 100
+*52
+DAT 200
+*53
+DAT 300
+
+Take two inputs from the user, add them together and then subtract 100 from it.
+IN
+STO 51
+IN
+ADD 51
+SUB 52
+OUT
+HLT
+*52
+DAT 100
+
+Take three inputs from the user. Add the first two inputs together and then subtract the third input from the result.
+IN
+STO 51
+IN
+ADD 51
+SUB 52
+OUT
+HLT
+*52
+DAT 100
+
+Take one input from the user, subtract 50 from it, and then double the result by adding
+the result to itself.
+IN
+SUB 51
+STO 52
+LDA 52
+ADD 52
+OUT
+HLT
+*51
+DAT 050
+
+
+
